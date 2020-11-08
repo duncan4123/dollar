@@ -15,7 +15,9 @@
     "@openzeppelin/contracts": "^2.5.0",
     "@openzeppelin/upgrades": "^2.8.0",
     "@uniswap/lib": "^1.1.2",
-    "@uniswap/v2-core": "^1.0.1"
+    "@uniswap/v2-core": "^1.0.1",
+    "eth-json-rpc-filters": "4.2.1"
+    
   },
   "devDependencies": {
     "@openzeppelin/test-environment": "^0.1.4",
